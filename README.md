@@ -1,5 +1,5 @@
 ## Starfield - Pygame
-### Simple starfield program created with pygame.
+Simple starfield program created with pygame!
 
 ![](https://github.com/brocklyons/Starfield-pygame/blob/main/starfield_example.gif)
 
