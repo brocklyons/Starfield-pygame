@@ -16,3 +16,6 @@ For example:
 ```
 python starfield.py 1000x800
 ```
+
+# Example
+![](https://github.com/brocklyons/Starfield-pygame/blob/main/starfield_example.gif)
