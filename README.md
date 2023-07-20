@@ -20,3 +20,4 @@ For example:
 ```
 python starfield.py 1000x800
 ```
+Make sure to use the above format or the default resolution will be used.
